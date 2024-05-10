@@ -62,14 +62,14 @@ body{
     text-decoration: none;
 }
 .left form input:focus {
-    outline: 1px solid #27ae60;
+    outline: 1px solid #3a5b22;
     
 }
 .left form input[type="submit"]{
     margin-top: 15px;
     color: #ffff;
-    background-color: #27ae60;
-    border: 5px solid #27ae60; 
+    background-color: rgba(58, 91, 34, 0.915);
+    border: 5px solid #3a5b22; 
     border-radius: 15px;  
     font-size: 25px;
 }
